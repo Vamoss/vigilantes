@@ -1,3 +1,3 @@
-#Vigilantes - Rio de Janeiro
-Esta aplicaÁ„o tem o objetivo de permitir que os cidad„os cariocas possam submeter problemas encontrados pela cidade do Rio de Janeiro.
+Ôªø#Vigilantes - Rio de Janeiro
+Esta aplica√ß√£o tem o objetivo de permitir que os cidad√£os cariocas possam submeter problemas encontrados pela cidade do Rio de Janeiro.
  
